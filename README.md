@@ -1,2 +1,2 @@
-# docker-http-server
+# Docker HTTP Server
 Docker container for NPM package http-server
