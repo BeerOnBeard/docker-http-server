@@ -1,4 +1,9 @@
 # Docker HTTP Server
 Docker container for NPM package http-server
 ## Example
-docker run -d -p 80:80 -v /my/static/file/folder:/www beeronbeard/docker-http-server
+```bash
+docker run -d \
+-p 80:80 \
+-v /my/static/file/folder:/www \
+beeronbeard/docker-http-server
+```
