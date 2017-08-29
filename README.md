@@ -1,3 +1,5 @@
+[![Docker Build Statu](https://img.shields.io/docker/build/beeronbeard/docker-http-server.svg?style=flat-square)](https://hub.docker.com/r/beeronbeard/docker-http-server/)
+
 # Docker HTTP Server
 Docker container for NPM package http-server
 ## Example
